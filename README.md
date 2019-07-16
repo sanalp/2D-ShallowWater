@@ -1,2 +1,2 @@
 # 2D-ShallowWater
-Implementation of 2D shallow water equation (Under Progress !!)
+Implementation of 2D shallow water equation (Work in Progress !!)
