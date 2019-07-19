@@ -1,0 +1,22 @@
+#Geometry Specifications.
+X_MIN   : 0.00
+X_MAX   : 1.00
+Y_MIN   : 0.00
+Y_MAX   : 4.00
+NX      : 64
+NY      : 256
+GHOST   : 1
+
+#Solver Specifications.
+STAGE   : 3
+ITER_1  : 4000
+ITER_2  : 2000
+CFL     : 0.9
+RDT     : 0.01
+BETA    : 1000.0
+
+#Material Constants.
+NU_1    : 0.018476978
+NU_2    : 0.002555102
+RHO_1   : 0.1694
+RHO_2   : 1.2250
